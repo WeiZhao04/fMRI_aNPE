@@ -1,4 +1,4 @@
-# fMRI_NPE
+# fMRI_aNPE
 The toolbox to perform dimension reduction and/or enhanced-recosntruction for rs-fMRI/t-fMRI data.  
 ![image](https://user-images.githubusercontent.com/59679583/220603046-f0b5a0ff-da6f-4d4e-a1da-e196339ab392.png)
 
